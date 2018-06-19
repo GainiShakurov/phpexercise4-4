@@ -2,8 +2,8 @@
 
 $dbType = "mysql";
 $host = 'localhost';
-$user = 'root';
-$password = '';
+$user = 'shakurov';
+$password = 'neto1748';
 $db = 'shakurov';
 $opt = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
